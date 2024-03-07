@@ -1,9 +1,0 @@
-{
-  "extends": ["rapid7/base"],
-  "globals": {
-    "require": true,
-    "process": true,
-    "__dirname": true,
-    "console": true
-  }
-}
